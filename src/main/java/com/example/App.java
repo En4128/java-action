@@ -719,7 +719,7 @@ public class App {
         
         <!-- Announcement Badge -->
         <div class="batch-announcement">
-            🎉 Announcing New Batch On
+            🎉 Announcing New Class
         </div>
         
         <div class="main-icons">
@@ -738,7 +738,7 @@ public class App {
         </div>
         
         <p class="hero-subtitle">
-            Master Industry-Grade CI/CD Pipelines & Cloud-Native Deployments
+            Learn Industry-Grade CI/CD Pipelines & Cloud-Native Deployments
         </p>
 
         <!-- Batch Start Date -->
